@@ -1,4 +1,4 @@
-# <module>, a tag that should not need to exist
+# `module`, a tag that should not need to exist
 
 This is in relation to the `<module>` HTML tag proposal outlined in [the module tag explainer](https://github.com/dherman/web-modules/blob/master/module-tag/explainer.md).
 
